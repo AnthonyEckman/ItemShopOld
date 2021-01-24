@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 287692a192287a542b1f39ea69c203a3, type: 3}
+  m_Name: TestClass2
+  m_EditorClassIdentifier: 
+  myCards:
+  - {fileID: 11400000, guid: 8c91379a65a61814e9597b9a497db9fc, type: 2}
+  - {fileID: 11400000, guid: 6d7f2f7856898ff4c9688686739273b9, type: 2}
+  - {fileID: 11400000, guid: 8c91379a65a61814e9597b9a497db9fc, type: 2}
+  myModel: {fileID: 988618932768120140, guid: 092e5efc177bd14468b3703abde3e676, type: 3}
+  MaxHealth: 8
+  MaxStamina: 10
